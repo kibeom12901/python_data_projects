@@ -22,6 +22,7 @@ Each notebook explores a specific dataset or concept using tools like:
 | **pandas_data_analysis_merge**        | Shows how to merge and analyze datasets with pandas. |
 | **pandas_salary_search**              | Explores job salary trends and role distributions using real-world datasets. |
 | **box_office_budget_revenue_analysis**| Analyzes box office films with budget vs revenue using pandas, seaborn, and scikit-learn linear regression. |
+| **semmelweis_handwashing_analysis**   | Investigates the impact of handwashing on maternal death rates in the 1840s using statistical analysis, KDEs, box plots, histograms, and hypothesis testing. |
 
 ---
 
